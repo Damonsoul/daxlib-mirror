@@ -1,4 +1,4 @@
-name: Sync DAX Library Files
+name: Sync DAX Library Tree
 
 on:
   schedule:
@@ -8,35 +8,27 @@ on:
   workflow_dispatch:
 
 jobs:
-  sync-files:
+  sync-tree-file:
     runs-on: ubuntu-latest
+    
+    # 关键修复：为任务授予写入仓库内容的权限
+    permissions:
+      contents: write
+      
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Fetch and save DAX library files
+      - name: Fetch API data and save to a file
         run: |
-          # 定义目标文件夹
-          TARGET_DIR="dax-library"
-          
-          # 清理旧文件夹，以防文件被删除后本地依然存在
-          rm -rf $TARGET_DIR
-          mkdir -p $TARGET_DIR
-          
-          # API URL
+          # 定义 API URL 和目标文件名
           API_URL="https://api.github.com/repos/sql-bi/daxlib/git/trees/main?recursive=1"
+          OUTPUT_FILE="daxlib-tree.json"
           
-          # 使用 curl 获取文件列表，并使用 jq 解析 JSON
-          # 如果 jq 未安装，需要先安装：sudo apt-get install jq
-          curl -s $API_URL | jq -r '.tree[] | select(.type == "blob") | .path' | while read -r filepath; do
-            echo "Processing file: $filepath"
-            
-            # 创建文件的目录结构
-            mkdir -p "$TARGET_DIR/$(dirname "$filepath")"
-            
-            # 下载文件内容并保存
-            curl -s -o "$TARGET_DIR/$filepath" "https://raw.githubusercontent.com/sql-bi/daxlib/main/$filepath"
-          done
+          # 使用 curl 获取 API 内容并直接保存到文件
+          curl -s -o $OUTPUT_FILE $API_URL
+          
+          echo "Successfully fetched API content and saved to $OUTPUT_FILE"
 
       - name: Commit and push changes
         run: |
@@ -45,8 +37,8 @@ jobs:
           
           # 检查是否有文件变动
           if [ -n "$(git status --porcelain)" ]; then
-            git add .
-            git commit -m "Update DAX library files"
+            git add daxlib-tree.json
+            git commit -m "Update DAX library tree file"
             git push
           else
             echo "No changes to commit."
