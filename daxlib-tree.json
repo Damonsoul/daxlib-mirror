@@ -1,6 +1,6 @@
 {
-  "sha": "d10def6f48f4e0ad81e313afdcce01c7da36a8d5",
-  "url": "https://api.github.com/repos/sql-bi/daxlib/git/trees/d10def6f48f4e0ad81e313afdcce01c7da36a8d5",
+  "sha": "b043f15efcf1ca26a092894dc1c53640bcd16239",
+  "url": "https://api.github.com/repos/sql-bi/daxlib/git/trees/b043f15efcf1ca26a092894dc1c53640bcd16239",
   "tree": [
     {
       "path": ".gitattributes",
@@ -61,8 +61,8 @@
       "path": "packages",
       "mode": "040000",
       "type": "tree",
-      "sha": "5abd5430865cbccd5bedd24440b1e02287cca19b",
-      "url": "https://api.github.com/repos/sql-bi/daxlib/git/trees/5abd5430865cbccd5bedd24440b1e02287cca19b"
+      "sha": "1c43d8afec89ec2a2fd102c9b9c896090fd04e5b",
+      "url": "https://api.github.com/repos/sql-bi/daxlib/git/trees/1c43d8afec89ec2a2fd102c9b9c896090fd04e5b"
     },
     {
       "path": "packages/.gitignore",
@@ -1250,8 +1250,53 @@
       "path": "packages/s",
       "mode": "040000",
       "type": "tree",
-      "sha": "51777a2cdf7fb1480d3eb57066a1c2b715849fce",
-      "url": "https://api.github.com/repos/sql-bi/daxlib/git/trees/51777a2cdf7fb1480d3eb57066a1c2b715849fce"
+      "sha": "b9dc572889efe656231ad39ecbef608a94302eac",
+      "url": "https://api.github.com/repos/sql-bi/daxlib/git/trees/b9dc572889efe656231ad39ecbef608a94302eac"
+    },
+    {
+      "path": "packages/s/savorydata.selection2list",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "1b21bb8cdbd7c77ffaae2cab048b39dd21a9eb96",
+      "url": "https://api.github.com/repos/sql-bi/daxlib/git/trees/1b21bb8cdbd7c77ffaae2cab048b39dd21a9eb96"
+    },
+    {
+      "path": "packages/s/savorydata.selection2list/0.1.0-beta",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "e526eb877b928b1f6baa7acdb72e991c304df3d4",
+      "url": "https://api.github.com/repos/sql-bi/daxlib/git/trees/e526eb877b928b1f6baa7acdb72e991c304df3d4"
+    },
+    {
+      "path": "packages/s/savorydata.selection2list/0.1.0-beta/icon.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "7cec4892930024585993a1e0d3476138afdf45a6",
+      "size": 2687,
+      "url": "https://api.github.com/repos/sql-bi/daxlib/git/blobs/7cec4892930024585993a1e0d3476138afdf45a6"
+    },
+    {
+      "path": "packages/s/savorydata.selection2list/0.1.0-beta/lib",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "46261537cbb350d54f7ff3b1df75afa08a3731d2",
+      "url": "https://api.github.com/repos/sql-bi/daxlib/git/trees/46261537cbb350d54f7ff3b1df75afa08a3731d2"
+    },
+    {
+      "path": "packages/s/savorydata.selection2list/0.1.0-beta/lib/functions.tmdl",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "bc71875095d540a78265869103141778512a9da6",
+      "size": 847,
+      "url": "https://api.github.com/repos/sql-bi/daxlib/git/blobs/bc71875095d540a78265869103141778512a9da6"
+    },
+    {
+      "path": "packages/s/savorydata.selection2list/0.1.0-beta/manifest.daxlib",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "b4b1c0c4ac3ace7b984dcf1a3c66da8e673df48c",
+      "size": 567,
+      "url": "https://api.github.com/repos/sql-bi/daxlib/git/blobs/b4b1c0c4ac3ace7b984dcf1a3c66da8e673df48c"
     },
     {
       "path": "packages/s/storybi.prioryearmeas",
