@@ -1,6 +1,6 @@
 {
-  "sha": "004c5ffd3dcd2398c56ebbea08f1fe054808885e",
-  "url": "https://api.github.com/repos/sql-bi/daxlib/git/trees/004c5ffd3dcd2398c56ebbea08f1fe054808885e",
+  "sha": "2bc8f1cc495f5f969abe6fb13c047c625d78b3e9",
+  "url": "https://api.github.com/repos/sql-bi/daxlib/git/trees/2bc8f1cc495f5f969abe6fb13c047c625d78b3e9",
   "tree": [
     {
       "path": ".gitattributes",
@@ -61,8 +61,8 @@
       "path": "packages",
       "mode": "040000",
       "type": "tree",
-      "sha": "b1af2048d0f33dc307ba1b4336bde6f3b43a9dc5",
-      "url": "https://api.github.com/repos/sql-bi/daxlib/git/trees/b1af2048d0f33dc307ba1b4336bde6f3b43a9dc5"
+      "sha": "64a36cab915c65afedd50781156f09efbfe36c5e",
+      "url": "https://api.github.com/repos/sql-bi/daxlib/git/trees/64a36cab915c65afedd50781156f09efbfe36c5e"
     },
     {
       "path": "packages/.gitignore",
@@ -1037,8 +1037,8 @@
       "path": "packages/e",
       "mode": "040000",
       "type": "tree",
-      "sha": "cd30b1e861d16e416bcf80b1484d1922bfc40f1f",
-      "url": "https://api.github.com/repos/sql-bi/daxlib/git/trees/cd30b1e861d16e416bcf80b1484d1922bfc40f1f"
+      "sha": "d243d110b95c3950b1c44b5efbff5b75aafee08a",
+      "url": "https://api.github.com/repos/sql-bi/daxlib/git/trees/d243d110b95c3950b1c44b5efbff5b75aafee08a"
     },
     {
       "path": "packages/e/evaluationcontext.colour",
@@ -1242,6 +1242,51 @@
       "sha": "61f4d34ea1fb0916a96a646d94472a2270348e8c",
       "size": 379,
       "url": "https://api.github.com/repos/sql-bi/daxlib/git/blobs/61f4d34ea1fb0916a96a646d94472a2270348e8c"
+    },
+    {
+      "path": "packages/e/everyday.kpicalcs",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "2acfe99cd4a148d60e330480d5b1d46630151f24",
+      "url": "https://api.github.com/repos/sql-bi/daxlib/git/trees/2acfe99cd4a148d60e330480d5b1d46630151f24"
+    },
+    {
+      "path": "packages/e/everyday.kpicalcs/0.1.2-beta",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "feb1dfef3d9b0500379f4f0e0da1af96fa0dfea9",
+      "url": "https://api.github.com/repos/sql-bi/daxlib/git/trees/feb1dfef3d9b0500379f4f0e0da1af96fa0dfea9"
+    },
+    {
+      "path": "packages/e/everyday.kpicalcs/0.1.2-beta/icon.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "580b57350a17b981c6504cb7362f5d9a51f666a0",
+      "size": 33315,
+      "url": "https://api.github.com/repos/sql-bi/daxlib/git/blobs/580b57350a17b981c6504cb7362f5d9a51f666a0"
+    },
+    {
+      "path": "packages/e/everyday.kpicalcs/0.1.2-beta/lib",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "0d599160a7eec481333711ce6ce450a596f8f792",
+      "url": "https://api.github.com/repos/sql-bi/daxlib/git/trees/0d599160a7eec481333711ce6ce450a596f8f792"
+    },
+    {
+      "path": "packages/e/everyday.kpicalcs/0.1.2-beta/lib/functions.tmdl",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "863ce0095b62493194255efa76c22930775c8c19",
+      "size": 3751,
+      "url": "https://api.github.com/repos/sql-bi/daxlib/git/blobs/863ce0095b62493194255efa76c22930775c8c19"
+    },
+    {
+      "path": "packages/e/everyday.kpicalcs/0.1.2-beta/manifest.daxlib",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "899a41fe0134d39f8840eab0332222bb058caa94",
+      "size": 385,
+      "url": "https://api.github.com/repos/sql-bi/daxlib/git/blobs/899a41fe0134d39f8840eab0332222bb058caa94"
     },
     {
       "path": "packages/f",
