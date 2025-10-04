@@ -1,6 +1,6 @@
 {
-  "sha": "2bc8f1cc495f5f969abe6fb13c047c625d78b3e9",
-  "url": "https://api.github.com/repos/sql-bi/daxlib/git/trees/2bc8f1cc495f5f969abe6fb13c047c625d78b3e9",
+  "sha": "eac83b0d3557d7f621b32b469e1988b3063e4a14",
+  "url": "https://api.github.com/repos/sql-bi/daxlib/git/trees/eac83b0d3557d7f621b32b469e1988b3063e4a14",
   "tree": [
     {
       "path": ".gitattributes",
@@ -61,8 +61,8 @@
       "path": "packages",
       "mode": "040000",
       "type": "tree",
-      "sha": "64a36cab915c65afedd50781156f09efbfe36c5e",
-      "url": "https://api.github.com/repos/sql-bi/daxlib/git/trees/64a36cab915c65afedd50781156f09efbfe36c5e"
+      "sha": "061d6b2faecc4f226e77228fd7b63a5c692ce092",
+      "url": "https://api.github.com/repos/sql-bi/daxlib/git/trees/061d6b2faecc4f226e77228fd7b63a5c692ce092"
     },
     {
       "path": "packages/.gitignore",
@@ -242,6 +242,58 @@
       "sha": "52c533d6f7e3f397b483399871342531424b90bc",
       "size": 536,
       "url": "https://api.github.com/repos/sql-bi/daxlib/git/blobs/52c533d6f7e3f397b483399871342531424b90bc"
+    },
+    {
+      "path": "packages/c",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "2b123d40d9d9df3c64afc915c8d6547672deb97c",
+      "url": "https://api.github.com/repos/sql-bi/daxlib/git/trees/2b123d40d9d9df3c64afc915c8d6547672deb97c"
+    },
+    {
+      "path": "packages/c/chrisbarber.finance",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "061ee9303b6bac1da4a50ff1b37deab6ab7d17c6",
+      "url": "https://api.github.com/repos/sql-bi/daxlib/git/trees/061ee9303b6bac1da4a50ff1b37deab6ab7d17c6"
+    },
+    {
+      "path": "packages/c/chrisbarber.finance/0.1.0-beta",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "a8cf4dee6149e21b2acfc34532562dbba52a17f1",
+      "url": "https://api.github.com/repos/sql-bi/daxlib/git/trees/a8cf4dee6149e21b2acfc34532562dbba52a17f1"
+    },
+    {
+      "path": "packages/c/chrisbarber.finance/0.1.0-beta/icon.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "d5d87934e7681ebeece15435628f6cbc8c54823e",
+      "size": 53787,
+      "url": "https://api.github.com/repos/sql-bi/daxlib/git/blobs/d5d87934e7681ebeece15435628f6cbc8c54823e"
+    },
+    {
+      "path": "packages/c/chrisbarber.finance/0.1.0-beta/lib",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "9de43836521abe81153febf40572af6fb94709d5",
+      "url": "https://api.github.com/repos/sql-bi/daxlib/git/trees/9de43836521abe81153febf40572af6fb94709d5"
+    },
+    {
+      "path": "packages/c/chrisbarber.finance/0.1.0-beta/lib/functions.tmdl",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "d65647580632d8b90fc546cca954cd329ed488de",
+      "size": 1642,
+      "url": "https://api.github.com/repos/sql-bi/daxlib/git/blobs/d65647580632d8b90fc546cca954cd329ed488de"
+    },
+    {
+      "path": "packages/c/chrisbarber.finance/0.1.0-beta/manifest.daxlib",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "bc58d7129a6c9a1b4f2fe1e70da990afe6438e8f",
+      "size": 553,
+      "url": "https://api.github.com/repos/sql-bi/daxlib/git/blobs/bc58d7129a6c9a1b4f2fe1e70da990afe6438e8f"
     },
     {
       "path": "packages/d",
