@@ -1,6 +1,6 @@
 {
-  "sha": "eac83b0d3557d7f621b32b469e1988b3063e4a14",
-  "url": "https://api.github.com/repos/sql-bi/daxlib/git/trees/eac83b0d3557d7f621b32b469e1988b3063e4a14",
+  "sha": "8b6477b2a78a9830e4387aed9b86a60b0d4de5d6",
+  "url": "https://api.github.com/repos/sql-bi/daxlib/git/trees/8b6477b2a78a9830e4387aed9b86a60b0d4de5d6",
   "tree": [
     {
       "path": ".gitattributes",
@@ -61,8 +61,8 @@
       "path": "packages",
       "mode": "040000",
       "type": "tree",
-      "sha": "061d6b2faecc4f226e77228fd7b63a5c692ce092",
-      "url": "https://api.github.com/repos/sql-bi/daxlib/git/trees/061d6b2faecc4f226e77228fd7b63a5c692ce092"
+      "sha": "d8d44f168097fbb24afd596315049208ebe67fca",
+      "url": "https://api.github.com/repos/sql-bi/daxlib/git/trees/d8d44f168097fbb24afd596315049208ebe67fca"
     },
     {
       "path": "packages/.gitignore",
@@ -1477,8 +1477,53 @@
       "path": "packages/p",
       "mode": "040000",
       "type": "tree",
-      "sha": "6b6a3584425723eaccc34a1e1fe4b30452e5a6fb",
-      "url": "https://api.github.com/repos/sql-bi/daxlib/git/trees/6b6a3584425723eaccc34a1e1fe4b30452e5a6fb"
+      "sha": "bce9eb1d781ab688af263122f73cd0fddd2c8dd0",
+      "url": "https://api.github.com/repos/sql-bi/daxlib/git/trees/bce9eb1d781ab688af263122f73cd0fddd2c8dd0"
+    },
+    {
+      "path": "packages/p/piotrbartela.titlecontext",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "d2b9d16af3be439875e27524dd95e100e64e5d09",
+      "url": "https://api.github.com/repos/sql-bi/daxlib/git/trees/d2b9d16af3be439875e27524dd95e100e64e5d09"
+    },
+    {
+      "path": "packages/p/piotrbartela.titlecontext/0.1.0",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "d98773b4c3624ec6e37e1e92509cc476bbf65306",
+      "url": "https://api.github.com/repos/sql-bi/daxlib/git/trees/d98773b4c3624ec6e37e1e92509cc476bbf65306"
+    },
+    {
+      "path": "packages/p/piotrbartela.titlecontext/0.1.0/icon.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "a74bdde075c957c9b488ddd36c7ec1945d942a7c",
+      "size": 85716,
+      "url": "https://api.github.com/repos/sql-bi/daxlib/git/blobs/a74bdde075c957c9b488ddd36c7ec1945d942a7c"
+    },
+    {
+      "path": "packages/p/piotrbartela.titlecontext/0.1.0/lib",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "639b92dff2aa58da6f94b2247a620e13c63c5256",
+      "url": "https://api.github.com/repos/sql-bi/daxlib/git/trees/639b92dff2aa58da6f94b2247a620e13c63c5256"
+    },
+    {
+      "path": "packages/p/piotrbartela.titlecontext/0.1.0/lib/functions.tmdl",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "67fb08bafc1d6f3ba416528a1ba484a696431d18",
+      "size": 9337,
+      "url": "https://api.github.com/repos/sql-bi/daxlib/git/blobs/67fb08bafc1d6f3ba416528a1ba484a696431d18"
+    },
+    {
+      "path": "packages/p/piotrbartela.titlecontext/0.1.0/manifest.daxlib",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "29ec080e6517be84213920c4b15565ab4035bf52",
+      "size": 874,
+      "url": "https://api.github.com/repos/sql-bi/daxlib/git/blobs/29ec080e6517be84213920c4b15565ab4035bf52"
     },
     {
       "path": "packages/p/powerelitestudio.geometry",
