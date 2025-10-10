@@ -1,6 +1,6 @@
 {
-  "sha": "8b6477b2a78a9830e4387aed9b86a60b0d4de5d6",
-  "url": "https://api.github.com/repos/sql-bi/daxlib/git/trees/8b6477b2a78a9830e4387aed9b86a60b0d4de5d6",
+  "sha": "709fd5fe934b538e883cf812415a690d1747f885",
+  "url": "https://api.github.com/repos/sql-bi/daxlib/git/trees/709fd5fe934b538e883cf812415a690d1747f885",
   "tree": [
     {
       "path": ".gitattributes",
@@ -61,8 +61,8 @@
       "path": "packages",
       "mode": "040000",
       "type": "tree",
-      "sha": "d8d44f168097fbb24afd596315049208ebe67fca",
-      "url": "https://api.github.com/repos/sql-bi/daxlib/git/trees/d8d44f168097fbb24afd596315049208ebe67fca"
+      "sha": "8d7453650e98a20b419268e516fe5c46a98312ee",
+      "url": "https://api.github.com/repos/sql-bi/daxlib/git/trees/8d7453650e98a20b419268e516fe5c46a98312ee"
     },
     {
       "path": "packages/.gitignore",
@@ -1752,8 +1752,61 @@
       "path": "packages/x",
       "mode": "040000",
       "type": "tree",
-      "sha": "2d2be2d8097c6029192a4bef92415772254f2117",
-      "url": "https://api.github.com/repos/sql-bi/daxlib/git/trees/2d2be2d8097c6029192a4bef92415772254f2117"
+      "sha": "191509089f7f98f499ac062428fea5cfd8929cf0",
+      "url": "https://api.github.com/repos/sql-bi/daxlib/git/trees/191509089f7f98f499ac062428fea5cfd8929cf0"
+    },
+    {
+      "path": "packages/x/xu.calendar",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "a5e9fc844338ad3485deb92ac8b28ec9b201f3cc",
+      "url": "https://api.github.com/repos/sql-bi/daxlib/git/trees/a5e9fc844338ad3485deb92ac8b28ec9b201f3cc"
+    },
+    {
+      "path": "packages/x/xu.calendar/0.1.0",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "a63d092fb1546531b3cd4bfb1ca3b708b366ffec",
+      "url": "https://api.github.com/repos/sql-bi/daxlib/git/trees/a63d092fb1546531b3cd4bfb1ca3b708b366ffec"
+    },
+    {
+      "path": "packages/x/xu.calendar/0.1.0/README.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "d2adcc2362972d3fd10269a87588998b6c2c2ff5",
+      "size": 3823,
+      "url": "https://api.github.com/repos/sql-bi/daxlib/git/blobs/d2adcc2362972d3fd10269a87588998b6c2c2ff5"
+    },
+    {
+      "path": "packages/x/xu.calendar/0.1.0/icon.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "bf6ad403be9cf07835d59af89a6aff8f310f098c",
+      "size": 61895,
+      "url": "https://api.github.com/repos/sql-bi/daxlib/git/blobs/bf6ad403be9cf07835d59af89a6aff8f310f098c"
+    },
+    {
+      "path": "packages/x/xu.calendar/0.1.0/lib",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "87e58c8476e86eb8310210bcd059b35931a4ad00",
+      "url": "https://api.github.com/repos/sql-bi/daxlib/git/trees/87e58c8476e86eb8310210bcd059b35931a4ad00"
+    },
+    {
+      "path": "packages/x/xu.calendar/0.1.0/lib/functions.tmdl",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "d0eddf3b3c08bb6a6b6b0c9668031a573cf4c486",
+      "size": 8924,
+      "url": "https://api.github.com/repos/sql-bi/daxlib/git/blobs/d0eddf3b3c08bb6a6b6b0c9668031a573cf4c486"
+    },
+    {
+      "path": "packages/x/xu.calendar/0.1.0/manifest.daxlib",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "f25f88b4a836a989fc807bf68c469c79b6f75c5b",
+      "size": 525,
+      "url": "https://api.github.com/repos/sql-bi/daxlib/git/blobs/f25f88b4a836a989fc807bf68c469c79b6f75c5b"
     },
     {
       "path": "packages/x/xu.svg.progress",
