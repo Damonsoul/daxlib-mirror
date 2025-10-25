@@ -22,7 +22,7 @@ jobs:
       - name: Fetch API data and save to a file
         run: |
           # 定义 API URL 和目标文件名
-          API_URL="https://api.github.com/repos/sql-bi/daxlib/git/trees/main?recursive=1"
+          API_URL="https://api.github.com/repos/daxlib/daxlib/git/trees/main?recursive=1"
           OUTPUT_FILE="daxlib-tree.json"
           
           # 使用 curl 获取 API 内容并直接保存到文件
