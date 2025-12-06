@@ -1,6 +1,6 @@
 {
-  "sha": "0244c0e9b90a217a759dfd8670dc117316d32b44",
-  "url": "https://api.github.com/repos/daxlib/daxlib/git/trees/0244c0e9b90a217a759dfd8670dc117316d32b44",
+  "sha": "24babfac4229fd1125112a73e63d00668ee363ed",
+  "url": "https://api.github.com/repos/daxlib/daxlib/git/trees/24babfac4229fd1125112a73e63d00668ee363ed",
   "tree": [
     {
       "path": ".gitattributes",
@@ -76,8 +76,8 @@
       "path": "packages",
       "mode": "040000",
       "type": "tree",
-      "sha": "ea47b15d341bb2c34a40a7033f7e0c9f0d56db0c",
-      "url": "https://api.github.com/repos/daxlib/daxlib/git/trees/ea47b15d341bb2c34a40a7033f7e0c9f0d56db0c"
+      "sha": "dc0b3a5fa2856c3bb52323b768bed38e20fadf83",
+      "url": "https://api.github.com/repos/daxlib/daxlib/git/trees/dc0b3a5fa2856c3bb52323b768bed38e20fadf83"
     },
     {
       "path": "packages/.gitignore",
@@ -2069,8 +2069,8 @@
       "path": "packages/p",
       "mode": "040000",
       "type": "tree",
-      "sha": "e13dd02ddb2f2e446ee41f5ff733f3679bbe59cb",
-      "url": "https://api.github.com/repos/daxlib/daxlib/git/trees/e13dd02ddb2f2e446ee41f5ff733f3679bbe59cb"
+      "sha": "a436707bd3de25fd2a6d51fc45e4ad963d30ddff",
+      "url": "https://api.github.com/repos/daxlib/daxlib/git/trees/a436707bd3de25fd2a6d51fc45e4ad963d30ddff"
     },
     {
       "path": "packages/p/panoramasoft.ui",
@@ -2257,8 +2257,8 @@
       "path": "packages/p/powerofbi.ibcs",
       "mode": "040000",
       "type": "tree",
-      "sha": "5dd7920a0a6daf0717a53f7bb9299eb12941b7c6",
-      "url": "https://api.github.com/repos/daxlib/daxlib/git/trees/5dd7920a0a6daf0717a53f7bb9299eb12941b7c6"
+      "sha": "c1013af31617b12ae1be287a71d2aa294f724708",
+      "url": "https://api.github.com/repos/daxlib/daxlib/git/trees/c1013af31617b12ae1be287a71d2aa294f724708"
     },
     {
       "path": "packages/p/powerofbi.ibcs/0.1.0",
@@ -2351,6 +2351,52 @@
       "sha": "cba726cd21cb18dc23026bf9b68e9124f86141ea",
       "size": 591,
       "url": "https://api.github.com/repos/daxlib/daxlib/git/blobs/cba726cd21cb18dc23026bf9b68e9124f86141ea"
+    },
+    {
+      "path": "packages/p/powerofbi.ibcs/0.3.0",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "308020d4440f395397d72a4e9b77915b5caeb41a",
+      "url": "https://api.github.com/repos/daxlib/daxlib/git/trees/308020d4440f395397d72a4e9b77915b5caeb41a"
+    },
+    {
+      "path": "packages/p/powerofbi.ibcs/0.3.0/README.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "7b22c62861f557b8b96950dfdea43f5275c6cbf9",
+      "size": 4397,
+      "url": "https://api.github.com/repos/daxlib/daxlib/git/blobs/7b22c62861f557b8b96950dfdea43f5275c6cbf9"
+    },
+    {
+      "path": "packages/p/powerofbi.ibcs/0.3.0/icon.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "935b861520e719d7d6e7bc76ce59937f404387a5",
+      "size": 4186,
+      "url": "https://api.github.com/repos/daxlib/daxlib/git/blobs/935b861520e719d7d6e7bc76ce59937f404387a5"
+    },
+    {
+      "path": "packages/p/powerofbi.ibcs/0.3.0/lib",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "b386f7d359042a390900ba9c194afa1956667db7",
+      "url": "https://api.github.com/repos/daxlib/daxlib/git/trees/b386f7d359042a390900ba9c194afa1956667db7"
+    },
+    {
+      "path": "packages/p/powerofbi.ibcs/0.3.0/lib/functions.tmdl",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "51754c4b51d75e081d220024d5067ea66db518fa",
+      "size": 63049,
+      "url": "https://api.github.com/repos/daxlib/daxlib/git/blobs/51754c4b51d75e081d220024d5067ea66db518fa"
+    },
+    {
+      "path": "packages/p/powerofbi.ibcs/0.3.0/manifest.daxlib",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "93a85f3ddd45cfa0069aefc5dd8d31776fcf0841",
+      "size": 669,
+      "url": "https://api.github.com/repos/daxlib/daxlib/git/blobs/93a85f3ddd45cfa0069aefc5dd8d31776fcf0841"
     },
     {
       "path": "packages/s",
@@ -2588,8 +2634,8 @@
       "path": "packages/x",
       "mode": "040000",
       "type": "tree",
-      "sha": "32f341141ee31eefbb779a5a291ebf82da3bfd4a",
-      "url": "https://api.github.com/repos/daxlib/daxlib/git/trees/32f341141ee31eefbb779a5a291ebf82da3bfd4a"
+      "sha": "86c00671efe50d806fe63346ca8f718925b5bf03",
+      "url": "https://api.github.com/repos/daxlib/daxlib/git/trees/86c00671efe50d806fe63346ca8f718925b5bf03"
     },
     {
       "path": "packages/x/xu.calendar",
@@ -2772,6 +2818,59 @@
       "sha": "c92b67dfa0844a7d4316ea8be193577efc400c25",
       "size": 501,
       "url": "https://api.github.com/repos/daxlib/daxlib/git/blobs/c92b67dfa0844a7d4316ea8be193577efc400c25"
+    },
+    {
+      "path": "packages/x/xu.tmdl.timeintelligence",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "5df6f088a4c6c072a4deda9fec45a2d87f747d21",
+      "url": "https://api.github.com/repos/daxlib/daxlib/git/trees/5df6f088a4c6c072a4deda9fec45a2d87f747d21"
+    },
+    {
+      "path": "packages/x/xu.tmdl.timeintelligence/1.0.0",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "83e6de60f6f1d0a2b55e8446ef83357e33dbffe6",
+      "url": "https://api.github.com/repos/daxlib/daxlib/git/trees/83e6de60f6f1d0a2b55e8446ef83357e33dbffe6"
+    },
+    {
+      "path": "packages/x/xu.tmdl.timeintelligence/1.0.0/README.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "3bcd42533dff204c8be7e370253cb2f203571a33",
+      "size": 6855,
+      "url": "https://api.github.com/repos/daxlib/daxlib/git/blobs/3bcd42533dff204c8be7e370253cb2f203571a33"
+    },
+    {
+      "path": "packages/x/xu.tmdl.timeintelligence/1.0.0/icon.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "8b427ba40dea4ad0651ff4259595b6668f472ae6",
+      "size": 32144,
+      "url": "https://api.github.com/repos/daxlib/daxlib/git/blobs/8b427ba40dea4ad0651ff4259595b6668f472ae6"
+    },
+    {
+      "path": "packages/x/xu.tmdl.timeintelligence/1.0.0/lib",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "b98a8ced3af93c4ea463f11e6e4ed8715a4c5b52",
+      "url": "https://api.github.com/repos/daxlib/daxlib/git/trees/b98a8ced3af93c4ea463f11e6e4ed8715a4c5b52"
+    },
+    {
+      "path": "packages/x/xu.tmdl.timeintelligence/1.0.0/lib/functions.tmdl",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e2052ecc20d6c58cc3540cd25af348f99020c30d",
+      "size": 10058,
+      "url": "https://api.github.com/repos/daxlib/daxlib/git/blobs/e2052ecc20d6c58cc3540cd25af348f99020c30d"
+    },
+    {
+      "path": "packages/x/xu.tmdl.timeintelligence/1.0.0/manifest.daxlib",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "5f8c3b064a21774b4369a1e9c7bcc3abaab762e9",
+      "size": 549,
+      "url": "https://api.github.com/repos/daxlib/daxlib/git/blobs/5f8c3b064a21774b4369a1e9c7bcc3abaab762e9"
     },
     {
       "path": "schemas",
