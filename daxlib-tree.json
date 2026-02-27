@@ -1,6 +1,6 @@
 {
-  "sha": "da29865bfda972688eb347deae2792700e0af1bb",
-  "url": "https://api.github.com/repos/daxlib/daxlib/git/trees/da29865bfda972688eb347deae2792700e0af1bb",
+  "sha": "3694c7dc7492764913dcc327db53c7d9ce5b9da9",
+  "url": "https://api.github.com/repos/daxlib/daxlib/git/trees/3694c7dc7492764913dcc327db53c7d9ce5b9da9",
   "tree": [
     {
       "path": ".gitattributes",
@@ -76,8 +76,8 @@
       "path": "packages",
       "mode": "040000",
       "type": "tree",
-      "sha": "a10a5e1e6dfa95a42d1becbbe803dae169e2052f",
-      "url": "https://api.github.com/repos/daxlib/daxlib/git/trees/a10a5e1e6dfa95a42d1becbbe803dae169e2052f"
+      "sha": "eeb42f4771231d7ded4ac74f6e69e7a85c710c5b",
+      "url": "https://api.github.com/repos/daxlib/daxlib/git/trees/eeb42f4771231d7ded4ac74f6e69e7a85c710c5b"
     },
     {
       "path": "packages/.gitignore",
@@ -496,8 +496,8 @@
       "path": "packages/d",
       "mode": "040000",
       "type": "tree",
-      "sha": "c7925afa62bf8c857b14fb26482fecd6e2ef6d2e",
-      "url": "https://api.github.com/repos/daxlib/daxlib/git/trees/c7925afa62bf8c857b14fb26482fecd6e2ef6d2e"
+      "sha": "490bf6a00cc61c654ed3e13a20a5e6b6676c2b3f",
+      "url": "https://api.github.com/repos/daxlib/daxlib/git/trees/490bf6a00cc61c654ed3e13a20a5e6b6676c2b3f"
     },
     {
       "path": "packages/d/datagoblins.sampledata",
@@ -1448,8 +1448,8 @@
       "path": "packages/d/daxpatterns.abcclassification",
       "mode": "040000",
       "type": "tree",
-      "sha": "cd7b3ccc753363f8382abe8364d4ca5c0e55554f",
-      "url": "https://api.github.com/repos/daxlib/daxlib/git/trees/cd7b3ccc753363f8382abe8364d4ca5c0e55554f"
+      "sha": "c1edfc458c56be43d89a068399791148573debe1",
+      "url": "https://api.github.com/repos/daxlib/daxlib/git/trees/c1edfc458c56be43d89a068399791148573debe1"
     },
     {
       "path": "packages/d/daxpatterns.abcclassification/0.1.1-beta",
@@ -1580,6 +1580,52 @@
       "sha": "e995e423af363450375583cf136c7b2eaf261bc6",
       "size": 408,
       "url": "https://api.github.com/repos/daxlib/daxlib/git/blobs/e995e423af363450375583cf136c7b2eaf261bc6"
+    },
+    {
+      "path": "packages/d/daxpatterns.abcclassification/0.1.4",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "c291941b652cd44f7448795623cf037cc6f4121a",
+      "url": "https://api.github.com/repos/daxlib/daxlib/git/trees/c291941b652cd44f7448795623cf037cc6f4121a"
+    },
+    {
+      "path": "packages/d/daxpatterns.abcclassification/0.1.4/README.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "6fcf4c09da3ae2ddc11add1b0969571f319348d4",
+      "size": 3915,
+      "url": "https://api.github.com/repos/daxlib/daxlib/git/blobs/6fcf4c09da3ae2ddc11add1b0969571f319348d4"
+    },
+    {
+      "path": "packages/d/daxpatterns.abcclassification/0.1.4/icon.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "c19529e258102161de288ee2a732ba67cec8b60e",
+      "size": 11566,
+      "url": "https://api.github.com/repos/daxlib/daxlib/git/blobs/c19529e258102161de288ee2a732ba67cec8b60e"
+    },
+    {
+      "path": "packages/d/daxpatterns.abcclassification/0.1.4/lib",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "de836533d3ce95357a10efa528857e6dcc1a85ec",
+      "url": "https://api.github.com/repos/daxlib/daxlib/git/trees/de836533d3ce95357a10efa528857e6dcc1a85ec"
+    },
+    {
+      "path": "packages/d/daxpatterns.abcclassification/0.1.4/lib/functions.tmdl",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "62d4d255ef8fe67a0d568353993cf81fa33fea5d",
+      "size": 4681,
+      "url": "https://api.github.com/repos/daxlib/daxlib/git/blobs/62d4d255ef8fe67a0d568353993cf81fa33fea5d"
+    },
+    {
+      "path": "packages/d/daxpatterns.abcclassification/0.1.4/manifest.daxlib",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "3de44ad90da2607ca6b50dd229c442e1c2af8f68",
+      "size": 590,
+      "url": "https://api.github.com/repos/daxlib/daxlib/git/blobs/3de44ad90da2607ca6b50dd229c442e1c2af8f68"
     },
     {
       "path": "packages/d/dynanalytics.geographic",
