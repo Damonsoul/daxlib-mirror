@@ -1,6 +1,6 @@
 {
-  "sha": "1edce3af3a28b588f97ddc429511868979b539a8",
-  "url": "https://api.github.com/repos/daxlib/daxlib/git/trees/1edce3af3a28b588f97ddc429511868979b539a8",
+  "sha": "0d6960d5b5d726477488fcce342e24496c4d00a7",
+  "url": "https://api.github.com/repos/daxlib/daxlib/git/trees/0d6960d5b5d726477488fcce342e24496c4d00a7",
   "tree": [
     {
       "path": ".gitattributes",
@@ -76,8 +76,8 @@
       "path": "packages",
       "mode": "040000",
       "type": "tree",
-      "sha": "2d91399401e5a8fa7a208c43bee2335f2e17c7c4",
-      "url": "https://api.github.com/repos/daxlib/daxlib/git/trees/2d91399401e5a8fa7a208c43bee2335f2e17c7c4"
+      "sha": "34850db89ab1fa16a9893a606e579451bbe689f8",
+      "url": "https://api.github.com/repos/daxlib/daxlib/git/trees/34850db89ab1fa16a9893a606e579451bbe689f8"
     },
     {
       "path": "packages/.gitignore",
@@ -2692,8 +2692,8 @@
       "path": "packages/p",
       "mode": "040000",
       "type": "tree",
-      "sha": "7cb549dbd736b214e62c828576ab6fa641556af1",
-      "url": "https://api.github.com/repos/daxlib/daxlib/git/trees/7cb549dbd736b214e62c828576ab6fa641556af1"
+      "sha": "f2bd0c344dad67b5b07d062e705d4764252583f3",
+      "url": "https://api.github.com/repos/daxlib/daxlib/git/trees/f2bd0c344dad67b5b07d062e705d4764252583f3"
     },
     {
       "path": "packages/p/panoramasoft.ui",
@@ -2880,8 +2880,8 @@
       "path": "packages/p/powerofbi.ibcs",
       "mode": "040000",
       "type": "tree",
-      "sha": "570816f96de8ddff05bf3c13a1374b688d841f54",
-      "url": "https://api.github.com/repos/daxlib/daxlib/git/trees/570816f96de8ddff05bf3c13a1374b688d841f54"
+      "sha": "0ab933ddedf551b65eb473e5b79bc15f84464436",
+      "url": "https://api.github.com/repos/daxlib/daxlib/git/trees/0ab933ddedf551b65eb473e5b79bc15f84464436"
     },
     {
       "path": "packages/p/powerofbi.ibcs/0.1.0",
@@ -2974,6 +2974,52 @@
       "sha": "f3b45c93c8f37af51e420b5cfcde5e335b3f91e1",
       "size": 761,
       "url": "https://api.github.com/repos/daxlib/daxlib/git/blobs/f3b45c93c8f37af51e420b5cfcde5e335b3f91e1"
+    },
+    {
+      "path": "packages/p/powerofbi.ibcs/0.11.0",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "ef1d18ffca84d514657ed7579901ef1dc310c977",
+      "url": "https://api.github.com/repos/daxlib/daxlib/git/trees/ef1d18ffca84d514657ed7579901ef1dc310c977"
+    },
+    {
+      "path": "packages/p/powerofbi.ibcs/0.11.0/README.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "7793caa6c29c6ee3d71b738e3aa440689eba5b52",
+      "size": 7332,
+      "url": "https://api.github.com/repos/daxlib/daxlib/git/blobs/7793caa6c29c6ee3d71b738e3aa440689eba5b52"
+    },
+    {
+      "path": "packages/p/powerofbi.ibcs/0.11.0/icon.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "f68fa70200206b6551a9eba8278dd04e58d0a923",
+      "size": 2824,
+      "url": "https://api.github.com/repos/daxlib/daxlib/git/blobs/f68fa70200206b6551a9eba8278dd04e58d0a923"
+    },
+    {
+      "path": "packages/p/powerofbi.ibcs/0.11.0/lib",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "e9eaac6f5802b610ccefb83550339fed00034be2",
+      "url": "https://api.github.com/repos/daxlib/daxlib/git/trees/e9eaac6f5802b610ccefb83550339fed00034be2"
+    },
+    {
+      "path": "packages/p/powerofbi.ibcs/0.11.0/lib/functions.tmdl",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "92d4e3e96d5760d5f03aa9255f3eb96d41ce4709",
+      "size": 155411,
+      "url": "https://api.github.com/repos/daxlib/daxlib/git/blobs/92d4e3e96d5760d5f03aa9255f3eb96d41ce4709"
+    },
+    {
+      "path": "packages/p/powerofbi.ibcs/0.11.0/manifest.daxlib",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "8dbb87af4e0357096a430c2a21e1135463830d96",
+      "size": 895,
+      "url": "https://api.github.com/repos/daxlib/daxlib/git/blobs/8dbb87af4e0357096a430c2a21e1135463830d96"
     },
     {
       "path": "packages/p/powerofbi.ibcs/0.2.0",
