@@ -1,6 +1,6 @@
 {
-  "sha": "2a45c062aa8f70c375cf670b6d72c69b8749d722",
-  "url": "https://api.github.com/repos/daxlib/daxlib/git/trees/2a45c062aa8f70c375cf670b6d72c69b8749d722",
+  "sha": "3e5a4c54186c2648b8a8a06def4b107e677ca37e",
+  "url": "https://api.github.com/repos/daxlib/daxlib/git/trees/3e5a4c54186c2648b8a8a06def4b107e677ca37e",
   "tree": [
     {
       "path": ".gitattributes",
@@ -76,8 +76,8 @@
       "path": "packages",
       "mode": "040000",
       "type": "tree",
-      "sha": "262635d46ae80b95cfa877bc37e216fb0f968264",
-      "url": "https://api.github.com/repos/daxlib/daxlib/git/trees/262635d46ae80b95cfa877bc37e216fb0f968264"
+      "sha": "6eb8c2bdeb8c9e235dfad3cf7d746b8fd43b8afb",
+      "url": "https://api.github.com/repos/daxlib/daxlib/git/trees/6eb8c2bdeb8c9e235dfad3cf7d746b8fd43b8afb"
     },
     {
       "path": "packages/.gitignore",
@@ -496,8 +496,8 @@
       "path": "packages/d",
       "mode": "040000",
       "type": "tree",
-      "sha": "dcfcd023af7edf9b7c87a1934722aa3f527fe63f",
-      "url": "https://api.github.com/repos/daxlib/daxlib/git/trees/dcfcd023af7edf9b7c87a1934722aa3f527fe63f"
+      "sha": "32f98c574d99b0aa4b799366bc6f4f81608a31a8",
+      "url": "https://api.github.com/repos/daxlib/daxlib/git/trees/32f98c574d99b0aa4b799366bc6f4f81608a31a8"
     },
     {
       "path": "packages/d/datagoblins.sampledata",
@@ -933,8 +933,8 @@
       "path": "packages/d/daxlib.sample",
       "mode": "040000",
       "type": "tree",
-      "sha": "d90f56781e699ebab05698858678c00dcf04e9da",
-      "url": "https://api.github.com/repos/daxlib/daxlib/git/trees/d90f56781e699ebab05698858678c00dcf04e9da"
+      "sha": "8a4885f92cfdbfca9b67e843899f7bba44ed3b36",
+      "url": "https://api.github.com/repos/daxlib/daxlib/git/trees/8a4885f92cfdbfca9b67e843899f7bba44ed3b36"
     },
     {
       "path": "packages/d/daxlib.sample/0.1.0-beta",
@@ -1229,6 +1229,44 @@
       "sha": "907e269f48a8576686e6a2228f9d3d0aec0cb2b6",
       "size": 511,
       "url": "https://api.github.com/repos/daxlib/daxlib/git/blobs/907e269f48a8576686e6a2228f9d3d0aec0cb2b6"
+    },
+    {
+      "path": "packages/d/daxlib.sample/0.1.8",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "d33c1e867b65cb542b85cee83c592cd883c962ee",
+      "url": "https://api.github.com/repos/daxlib/daxlib/git/trees/d33c1e867b65cb542b85cee83c592cd883c962ee"
+    },
+    {
+      "path": "packages/d/daxlib.sample/0.1.8/README.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "62fe51b4289c7b0a01397acce3bcdd850071bb06",
+      "size": 425,
+      "url": "https://api.github.com/repos/daxlib/daxlib/git/blobs/62fe51b4289c7b0a01397acce3bcdd850071bb06"
+    },
+    {
+      "path": "packages/d/daxlib.sample/0.1.8/lib",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "941ea0b1edafd078dd2474d1ba9343f59dc57b81",
+      "url": "https://api.github.com/repos/daxlib/daxlib/git/trees/941ea0b1edafd078dd2474d1ba9343f59dc57b81"
+    },
+    {
+      "path": "packages/d/daxlib.sample/0.1.8/lib/functions.tmdl",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "ca442c60efeae9d554f7743c9cf2f2b37b86934f",
+      "size": 664,
+      "url": "https://api.github.com/repos/daxlib/daxlib/git/blobs/ca442c60efeae9d554f7743c9cf2f2b37b86934f"
+    },
+    {
+      "path": "packages/d/daxlib.sample/0.1.8/manifest.daxlib",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "9796a760446822f4878fccc72b508a1a96dcf1ea",
+      "size": 588,
+      "url": "https://api.github.com/repos/daxlib/daxlib/git/blobs/9796a760446822f4878fccc72b508a1a96dcf1ea"
     },
     {
       "path": "packages/d/daxlib.svg",
