@@ -1,6 +1,6 @@
 {
-  "sha": "a7610beff1d0a2527ed74bb74bed51c512d3e66f",
-  "url": "https://api.github.com/repos/daxlib/daxlib/git/trees/a7610beff1d0a2527ed74bb74bed51c512d3e66f",
+  "sha": "3f95630a9cf183aa383c8f396296a76ae9598959",
+  "url": "https://api.github.com/repos/daxlib/daxlib/git/trees/3f95630a9cf183aa383c8f396296a76ae9598959",
   "tree": [
     {
       "path": ".gitattributes",
@@ -76,8 +76,8 @@
       "path": "packages",
       "mode": "040000",
       "type": "tree",
-      "sha": "558a5bb3383aab03c3c6723c6bbdefb6a0f110f5",
-      "url": "https://api.github.com/repos/daxlib/daxlib/git/trees/558a5bb3383aab03c3c6723c6bbdefb6a0f110f5"
+      "sha": "e563d77c685f9e8d57556a17b828a92c7c7c21da",
+      "url": "https://api.github.com/repos/daxlib/daxlib/git/trees/e563d77c685f9e8d57556a17b828a92c7c7c21da"
     },
     {
       "path": "packages/.gitignore",
@@ -5464,8 +5464,61 @@
       "path": "packages/s",
       "mode": "040000",
       "type": "tree",
-      "sha": "46781bbc86c71c49981bbeaf01f5353984c329f2",
-      "url": "https://api.github.com/repos/daxlib/daxlib/git/trees/46781bbc86c71c49981bbeaf01f5353984c329f2"
+      "sha": "a572b496c61e229c8e1170a194a8d23704990f83",
+      "url": "https://api.github.com/repos/daxlib/daxlib/git/trees/a572b496c61e229c8e1170a194a8d23704990f83"
+    },
+    {
+      "path": "packages/s/savorydata.formatting",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "a09d90a87a78ce39bd96e6e1db727861aef5b02a",
+      "url": "https://api.github.com/repos/daxlib/daxlib/git/trees/a09d90a87a78ce39bd96e6e1db727861aef5b02a"
+    },
+    {
+      "path": "packages/s/savorydata.formatting/0.1.0-beta",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "d57f1034f8fd6587c9ca8f8b5dfc3009089d9533",
+      "url": "https://api.github.com/repos/daxlib/daxlib/git/trees/d57f1034f8fd6587c9ca8f8b5dfc3009089d9533"
+    },
+    {
+      "path": "packages/s/savorydata.formatting/0.1.0-beta/README.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "b6449b72641a6ac766d304d9d8684289a00af289",
+      "size": 12555,
+      "url": "https://api.github.com/repos/daxlib/daxlib/git/blobs/b6449b72641a6ac766d304d9d8684289a00af289"
+    },
+    {
+      "path": "packages/s/savorydata.formatting/0.1.0-beta/icon.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "7cec4892930024585993a1e0d3476138afdf45a6",
+      "size": 2687,
+      "url": "https://api.github.com/repos/daxlib/daxlib/git/blobs/7cec4892930024585993a1e0d3476138afdf45a6"
+    },
+    {
+      "path": "packages/s/savorydata.formatting/0.1.0-beta/lib",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "e635c847c49f42254b57aae3b620b7e9ac4ab9e0",
+      "url": "https://api.github.com/repos/daxlib/daxlib/git/trees/e635c847c49f42254b57aae3b620b7e9ac4ab9e0"
+    },
+    {
+      "path": "packages/s/savorydata.formatting/0.1.0-beta/lib/functions.tmdl",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e4855f0b17aee1036071e82fb28b844eece522a0",
+      "size": 7694,
+      "url": "https://api.github.com/repos/daxlib/daxlib/git/blobs/e4855f0b17aee1036071e82fb28b844eece522a0"
+    },
+    {
+      "path": "packages/s/savorydata.formatting/0.1.0-beta/manifest.daxlib",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e363c08d4184ff59584853028381e4124864cc2c",
+      "size": 540,
+      "url": "https://api.github.com/repos/daxlib/daxlib/git/blobs/e363c08d4184ff59584853028381e4124864cc2c"
     },
     {
       "path": "packages/s/savorydata.selection2list",
