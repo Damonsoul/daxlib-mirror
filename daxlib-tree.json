@@ -1,6 +1,6 @@
 {
-  "sha": "e94dbbf72994411d55a75bf3f223a913eac3edaf",
-  "url": "https://api.github.com/repos/daxlib/daxlib/git/trees/e94dbbf72994411d55a75bf3f223a913eac3edaf",
+  "sha": "0e65ac4137e73edfcb1cef4ac880b9cd31bb5389",
+  "url": "https://api.github.com/repos/daxlib/daxlib/git/trees/0e65ac4137e73edfcb1cef4ac880b9cd31bb5389",
   "tree": [
     {
       "path": ".gitattributes",
@@ -76,8 +76,8 @@
       "path": "packages",
       "mode": "040000",
       "type": "tree",
-      "sha": "b75e7ce48ba4bac0d9f1b743a1bf9a0cb1308a00",
-      "url": "https://api.github.com/repos/daxlib/daxlib/git/trees/b75e7ce48ba4bac0d9f1b743a1bf9a0cb1308a00"
+      "sha": "92db1f13f1e60bf35b20f8fbbe9bc27a925b18fb",
+      "url": "https://api.github.com/repos/daxlib/daxlib/git/trees/92db1f13f1e60bf35b20f8fbbe9bc27a925b18fb"
     },
     {
       "path": "packages/.gitignore",
@@ -3929,8 +3929,8 @@
       "path": "packages/p",
       "mode": "040000",
       "type": "tree",
-      "sha": "531492c59a993334c29a0d36b6703ef107b3a030",
-      "url": "https://api.github.com/repos/daxlib/daxlib/git/trees/531492c59a993334c29a0d36b6703ef107b3a030"
+      "sha": "b23e6be35f2cd20dceb0ad89efbc5e2205a9ed33",
+      "url": "https://api.github.com/repos/daxlib/daxlib/git/trees/b23e6be35f2cd20dceb0ad89efbc5e2205a9ed33"
     },
     {
       "path": "packages/p/panoramasoft.ui",
@@ -4775,8 +4775,8 @@
       "path": "packages/p/pql.assert",
       "mode": "040000",
       "type": "tree",
-      "sha": "cf323c5004c418e82db63d3c466825d2574e378e",
-      "url": "https://api.github.com/repos/daxlib/daxlib/git/trees/cf323c5004c418e82db63d3c466825d2574e378e"
+      "sha": "0650ebd784dc3016738d8c860439bfdcd76fbe1a",
+      "url": "https://api.github.com/repos/daxlib/daxlib/git/trees/0650ebd784dc3016738d8c860439bfdcd76fbe1a"
     },
     {
       "path": "packages/p/pql.assert/0.1.0",
@@ -5505,6 +5505,52 @@
       "sha": "4a822eaffd3cbb2c2da262a4af6decb4944be87b",
       "size": 536,
       "url": "https://api.github.com/repos/daxlib/daxlib/git/blobs/4a822eaffd3cbb2c2da262a4af6decb4944be87b"
+    },
+    {
+      "path": "packages/p/pql.assert/0.8.0",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "05469d6b3eddd03c329fc2ebb597b62219e8af45",
+      "url": "https://api.github.com/repos/daxlib/daxlib/git/trees/05469d6b3eddd03c329fc2ebb597b62219e8af45"
+    },
+    {
+      "path": "packages/p/pql.assert/0.8.0/README.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "08b6ac936353c3ba177831ce97b73b894a788128",
+      "size": 49707,
+      "url": "https://api.github.com/repos/daxlib/daxlib/git/blobs/08b6ac936353c3ba177831ce97b73b894a788128"
+    },
+    {
+      "path": "packages/p/pql.assert/0.8.0/icon.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "f78601c4d29c2c99c2fde5e6121c27f6f04e9e59",
+      "size": 72018,
+      "url": "https://api.github.com/repos/daxlib/daxlib/git/blobs/f78601c4d29c2c99c2fde5e6121c27f6f04e9e59"
+    },
+    {
+      "path": "packages/p/pql.assert/0.8.0/lib",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "5835039d4b2cc2cc2545ad49f99b2ac74ad538a2",
+      "url": "https://api.github.com/repos/daxlib/daxlib/git/trees/5835039d4b2cc2cc2545ad49f99b2ac74ad538a2"
+    },
+    {
+      "path": "packages/p/pql.assert/0.8.0/lib/functions.tmdl",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "8344c9cd9789010e13f88258a435bd42b3de9566",
+      "size": 183877,
+      "url": "https://api.github.com/repos/daxlib/daxlib/git/blobs/8344c9cd9789010e13f88258a435bd42b3de9566"
+    },
+    {
+      "path": "packages/p/pql.assert/0.8.0/manifest.daxlib",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "07a3f09959c9e3ea626f4e37dc0e75c13dede8eb",
+      "size": 536,
+      "url": "https://api.github.com/repos/daxlib/daxlib/git/blobs/07a3f09959c9e3ea626f4e37dc0e75c13dede8eb"
     },
     {
       "path": "packages/s",
